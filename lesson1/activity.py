@@ -1,0 +1,5 @@
+print("My name is Adhithya")
+print("I am 15 years old")
+print("i like to go fishing")
+print("I like to play basketball and XBOX")
+print("i like kaju katli,gulab Jamun,rasmalai, popeyes, kfc and zomato")
